@@ -90,10 +90,5 @@
 }
 .list{
     list-style-type: none;
-    /* font-size: inherit; */
-    border-bottom: 2px solid #ff8a65; 
-    /* float: left; */
-    /* width: 60%; */
-    /* height: 100%; */
-    /* padding: 10px; */
+    border-bottom: 2px solid #ff8a65;
 }
